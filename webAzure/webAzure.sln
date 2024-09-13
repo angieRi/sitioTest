@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webAzure", "webAzure.csproj", "{83A4B9E4-D8B1-4FE6-8773-16DAAAF97412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A4B9E4-D8B1-4FE6-8773-16DAAAF97412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A4B9E4-D8B1-4FE6-8773-16DAAAF97412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A4B9E4-D8B1-4FE6-8773-16DAAAF97412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A4B9E4-D8B1-4FE6-8773-16DAAAF97412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C545407F-7996-437D-B06B-BD91A6FD7902}
+	EndGlobalSection
+EndGlobal
